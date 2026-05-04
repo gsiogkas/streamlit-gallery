@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "title": "Streamlit Hexviz",
+  "author": {
+    "github": "Robert-Ziegltrum",
+    "displayName": "Robert Ziegltrum"
+  },
+  "links": {
+    "github": "https://github.com/Robert-Ziegltrum/streamlit-hexviz",
+    "pypi": "streamlit-hexviz",
+    "demo": "https://app-hexviz-example-app.streamlit.app/",
+    "docs": null
+  },
+  "media": {
+    "image": "https://github.com/Robert-Ziegltrum/streamlit-hexviz/blob/main/assets/streamlit-hexexplore-simple-map.png"
+  },
+  "install": {
+    "pip": "pip install streamlit-hexviz"
+  },
+  "governance": {
+    "enabled": true,
+    "notes": null
+  },
+  "categories": ["Maps"]
+}
