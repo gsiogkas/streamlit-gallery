@@ -12,7 +12,7 @@
     "docs": null
   },
   "media": {
-    "image": "https://github.com/Robert-Ziegltrum/streamlit-hexviz/blob/main/assets/streamlit-hexexplore-simple-map.png"
+    "image": "https://raw.githubusercontent.com/Robert-Ziegltrum/streamlit-hexviz/refs/heads/main/assets/streamlit-hexexplore-simple-map.png"
   },
   "install": {
     "pip": "pip install streamlit-hexviz"
